@@ -7,5 +7,3 @@ render_with_liquid: false
 ---
 
 드디어 블로그 개설합니다.
-
-방법에 대한건 나중에 써야징~
