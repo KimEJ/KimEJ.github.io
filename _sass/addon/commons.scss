@@ -1,6 +1,7 @@
 /*
   The common styles
 */
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 html {
   @media (prefers-color-scheme: light) {
@@ -24,7 +25,6 @@ html {
       @include light-scheme;
     }
   }
-
   font-size: 16px;
 }
 
@@ -33,7 +33,7 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
 /* --- Typography --- */
@@ -107,7 +107,7 @@ blockquote {
 
     &::before {
       margin-right: 1rem;
-      font-family: "Font Awesome 5 Free";
+      font-family: "Nanum Gothic";
       text-align: center;
       width: 1.25rem;
     }
@@ -1146,7 +1146,7 @@ $sidebar-display: "sidebar-display";
   }
 
   .toast-body {
-    font-family: 'Lato';
+    font-family: "Nanum Gothic";
     line-height: 1.25rem;
 
     button {
