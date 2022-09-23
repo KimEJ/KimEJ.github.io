@@ -42,7 +42,7 @@ instagram:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 김어진
+  name: '김어진'
   email: kimuj5090@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -90,7 +90,7 @@ avatar: 'assets/img/avatar.jpg'
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'giscus'        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
