@@ -188,3 +188,24 @@ windows에서는 자동으로 초기화 시켜 줄 방법이 없습니다...😅
 ## Git Push
 이제 우리 템플릿을 github에 올려봅시다.
 
+![actions 탭](/assets/img/2022-09-24-jekyll%EB%A1%9C-github-pages%EC%97%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/actions.PNG)
+_actions 탭의 자동 배포 장면_
+
+github에 올리고 repository의 actions 탭을 보면 위와 같이 뭔가 2개가 생겼습니다.
+
+잠시 후에 보면 아래와 같이 성공했다는 표시가 뜨게 됩니다.
+
+![actions 성공](/assets/img/2022-09-24-jekyll%EB%A1%9C-github-pages%EC%97%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/actions-success.PNG)
+_actions 성공 장면_
+
+```<github 아이디>.github.io``` 페이지로 이동해보면 우리가 올린 페이지가 뜨게 됩니다!
+
+# TODOs
+
+우리가 올린 블로그는 제 블로그랑 사뭇 다를겁니다.
+
+아직 기사도 하나도 없구요.
+
+다음 기사에서는 블로그 커스텀과 포스팅 방법에 대해 이야기 해 보려고 합니다!
+
+다음 기사에서 만나요!
