@@ -1,7 +1,7 @@
 ---
 title: Jekyll로 github pages에 블로그 구축하기
-date: 2022-09-23 10:10:00 +0900
-categories: [Tutorial]
+date: 2022-09-24 12:00:00 +0900
+categories: [Tutorial, Web]
 tags: [github pages, jekyll, chirpy, blog]
 render_with_liquid: false
 ---
