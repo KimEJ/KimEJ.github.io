@@ -18,7 +18,7 @@ render_with_liquid: false
 
 "에이~ 웹 페이지 만드는 기술로 게임을 어떻게 만들어요~" 하실 분들도 있겠지만 잘 생각해보면 이미 Javascript로 된 게임을 경험 해 보셨을 겁니다.
 
-[![추억의 게임 agar.io](/assets/img/2022-09-30-HTML-Javascript로-게임-만들기/agar.io.png)](argar.io)
+[![추억의 게임 agar.io](/assets/img/2022-09-30-HTML-Javascript로-게임-만들기/agar.io.png)](https://agar.io/)
 _추억의 게임 agar.io_
 
 여러분들도 어렸을 때 한번쯤 웹 페이지에서 게임 해 본적 있지 않나요?
