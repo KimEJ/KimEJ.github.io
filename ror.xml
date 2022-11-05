@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://kimej.github.io/</title>
+  <link>https://kimej.github.io/</link>
+
+<item>
+     <link>https://kimej.github.io/</link>
+     <title>평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/</link>
+     <title>Categories | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/</link>
+     <title>Tags | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/archives/</link>
+     <title>Archives | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/about/</link>
+     <title>About | 평범한 기술 블로그</title>
+     <description>이것저것 하고 싶은거 하면서 기록 남기는 블로그 입니다. :)</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/deno%EB%A1%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
+     <title>deno로 정적 웹 사이트 만들기 | 평범한 기술 블로그</title>
+     <description>안녕하세요.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/C%EB%A1%9C-%EB%A7%A4%ED%81%AC%EB%A1%9C%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90/</link>
+     <title>C로 매크로를 만들어보자 | 평범한 기술 블로그</title>
+     <description>안녕하세요.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/%EC%BD%94%EB%93%9C-%EC%97%86%EC%9D%B4-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/</link>
+     <title>코드 없이 웹 구축하기 | 평범한 기술 블로그</title>
+     <description>오늘은 코드 한줄 적지 않고 웹 개발 하는 방법에 대해 이야기 해 보려고 합니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/Windows%EC%9D%98-Unix-Like-%EA%B8%B0%EB%8A%A5/</link>
+     <title>Windows의 Unix Like 기능 | 평범한 기술 블로그</title>
+     <description>오늘은 Windows에서 개발할 때 유용한 도구들에 대해 소개 해 드리려고 합니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/HTML-Javascript%EB%A1%9C-%EA%B2%8C%EC%9E%84-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
+     <title>HTML Javascript로 게임 만들기 | 평범한 기술 블로그</title>
+     <description>오늘은 HTML과 Javascript로 게임을 만들어보려고 합니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/jekyll%EB%A1%9C-github-pages%EC%97%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/</link>
+     <title>Jekyll로 github pages에 블로그 구축하기 | 평범한 기술 블로그</title>
+     <description>오늘은 제가 블로그를 구축했던 방법에 대해 이야기 해보려고 합니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/posts/first-post/</link>
+     <title>포스팅의 시작 | 평범한 기술 블로그</title>
+     <description>블로그 시작하게 되었습니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/javascript/</link>
+     <title>Javascript | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/blog/</link>
+     <title>blog | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/blogging/</link>
+     <title>Blogging | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/c/</link>
+     <title>C | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/chirpy/</link>
+     <title>chirpy | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/deno/</link>
+     <title>deno | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/game/</link>
+     <title>Game | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/ghost/</link>
+     <title>Ghost | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/github-pages/</link>
+     <title>github pages | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/html/</link>
+     <title>HTML | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/windows/</link>
+     <title>Windows | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/tutorial/</link>
+     <title>Tutorial | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/%EC%9B%B9/</link>
+     <title>웹 | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C/</link>
+     <title>기술소개 | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/%EC%9E%A1%EB%8B%B4/</link>
+     <title>잡담 | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/jekyll/</link>
+     <title>jekyll | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/linux/</link>
+     <title>Linux | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/macro/</link>
+     <title>macro | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/mingw/</link>
+     <title>MinGW | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/phaser/</link>
+     <title>Phaser | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/rhymix/</link>
+     <title>Rhymix | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/unix-like/</link>
+     <title>Unix Like | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/windows/</link>
+     <title>Windows | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/wordpress/</link>
+     <title>wordpress | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/wsl/</link>
+     <title>WSL | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/tags/%EA%B7%B8%EB%88%84%EB%B3%B4%EB%93%9C/</link>
+     <title>그누보드 | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/phaser-demo/</link>
+     <title>phaser demo</title>
+     <description>phaser demo</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://kimej.github.io/categories/web/</link>
+     <title>Web | 평범한 기술 블로그</title>
+     <description>개발 관련된 기술 소개, 튜토리얼 등을 다룹니다.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
