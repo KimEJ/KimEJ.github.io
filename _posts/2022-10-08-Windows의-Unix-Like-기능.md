@@ -1,7 +1,7 @@
 ---
 title: Windows의 Unix Like 기능
 date: 2022-10-08 14:00:00 +0900
-categories: [기술소개, Windows]
+categories: [Windows, 기술소개]
 tags: [Windows, WSL, Linux, Unix Like]
 render_with_liquid: false
 ---
