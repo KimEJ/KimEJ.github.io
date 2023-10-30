@@ -410,3 +410,5 @@ Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 앞으로 천천히 게임을 만들어보면서 게임 개발에 대한 기사를 천천히 작성해나가볼까 합니다.
 
 그럼 이만 다음시간에 뵙겠습니다.
+
+[새 소식](https://kimej.github.io/posts/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91/)
