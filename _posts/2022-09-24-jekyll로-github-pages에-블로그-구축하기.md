@@ -89,7 +89,7 @@ gem install jekyll
 ## 3. 테마
 
 우리 블로그의 테마를 선택합니다.
-[jekyllthemes](http://jekyllthemes.org/)와 같은 테마를 모아놓은 사이트에서 고르시거나 구글링하여 고르시면 됩니다.
+[jekyllthemes](https://jekyllthemes.org/)와 같은 테마를 모아놓은 사이트에서 고르시거나 구글링하여 고르시면 됩니다.
 
 물론 Jekyll로 직접 페이지를 구현할 수도 있습니다!
 

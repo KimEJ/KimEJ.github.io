@@ -105,7 +105,7 @@ Pixi.js 나 Unity Tiny에 비해 3D가 불가능 하다는 단점이 있습니�
 
 저 같은 경우엔 그림 실력은 하나도 없는 관계로 아래의 에셋 배포 사이트의 무료 에셋을 주로 이용합니다.
 
-- <http://resourcebank.or.kr/>
+- <https://resourcebank.or.kr/>
 - <https://itch.io/>
 
 더 많은 유/무료 에셋 배포 사이트들이 많으니 마음에 드시는 에셋을 준비하시면 됩니다!
@@ -127,7 +127,7 @@ Pixi.js 나 Unity Tiny에 비해 3D가 불가능 하다는 단점이 있습니�
 
 ### 라이브러리 소스를 포함하여 배포하기
 
-아니면 [다운로드 페이지](http://phaser.io/download/stable)에서 javascript 소스를 직접 다운로드 받아서 아래와 같이 직접 배포할 수도 있습니다.
+아니면 [다운로드 페이지](https://phaser.io/download/stable)에서 javascript 소스를 직접 다운로드 받아서 아래와 같이 직접 배포할 수도 있습니다.
 
 ```HTML
 <!-- 배포 디렉터리의 'js/' 밑에 다운받은 phaser.min.js를 옮긴 후 불러온다. -->
