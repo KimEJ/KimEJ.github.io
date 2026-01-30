@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'ko-KR' }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>김어진 | Kim Eojin - Backend Developer</title>
+    <link rel="stylesheet" href="{{ '/assets/css/revamp.css' | relative_url }}">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <div class="bg-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <nav>
+        <div class="logo">KIM EOJIN</div>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <span class="hero-tag">BACKEND / SERVER DEVELOPER</span>
+                <h1>Hi, I'm <span class="name-gradient">Kim Eojin</span>.</h1>
+                <p>7년 5개월 경력의 백엔드 개발자입니다. Node.js와 Nest.js를 활용한 고품질 서버 시스템 개발과 대규모 데이터 최적화에 전문성을 가지고 있습니다.</p>
+                <div class="hero-btns">
+                    <a href="#experience" class="btn btn-primary">View My Work</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <img src="{{ '/assets/img/avatar.jpg' | relative_url }}" alt="Kim Eojin" class="avatar">
+            </div>
+        </section>
+
+        <section id="about">
+            <h2 class="section-title">About Me</h2>
+            <div class="card reveal">
+                <p>Node.js와 Nest.js를 활용한 고품질 서버 시스템 개발에 강점을 가지고 있습니다. MongoDB, MySQL 등 다양한 데이터베이스 환경에서 대규모 데이터 처리 및 최적화
+                    경험을 보유하고 있으며, AWS 및 Azure에서 Docker를 활용한 클라우드 인프라 구축 및 운영 경험이 있습니다.</p>
+            </div>
+        </section>
+
+        <section id="experience">
+            <h2 class="section-title">Work Experience</h2>
+            <div class="experience-list">
+                <!-- Wonders Lab -->
+                <div class="card exp-item reveal">
+                    <div class="exp-header">
+                        <h3 class="company">㈜원더스랩 (Wonders Lab)</h3>
+                        <span class="duration">2024.10 - Present</span>
+                    </div>
+                    <span class="role">백엔드/서버 개발자</span>
+                    <div class="projects">
+                        <div class="project">
+                            <h4>WonderLaw (Legal Document AI Agent)</h4>
+                            <div class="tech-stack">
+                                <span class="tech-badge">Nest.js</span>
+                                <span class="tech-badge">Python</span>
+                                <span class="tech-badge">Azure</span>
+                                <span class="tech-badge">OCR</span>
+                                <span class="tech-badge">LLM</span>
+                            </div>
+                            <p>ML 파인튜닝을 활용한 법률 문서 자동 생성 파이프라인 구축</p>
+                        </div>
+                        <div class="project">
+                            <h4>WonderStory (AI Script Assistant)</h4>
+                            <div class="tech-stack">
+                                <span class="tech-badge">Nest.js</span>
+                                <span class="tech-badge">MongoDB</span>
+                                <span class="tech-badge">Azure</span>
+                            </div>
+                            <p>확장 가능한 DB 스키마 설계 및 대본 생성 백엔드 구현</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Interpass -->
+                <div class="card exp-item reveal" style="margin-top: 2rem;">
+                    <div class="exp-header">
+                        <h3 class="company">인터패스 (Interpass)</h3>
+                        <span class="duration">2022.08 - 2024.10</span>
+                    </div>
+                    <span class="role">백엔드/서버 개발자</span>
+                    <div class="projects">
+                        <div class="project">
+                            <h4>System Monitoring & Alert Server</h4>
+                            <div class="tech-stack">
+                                <span class="tech-badge">Nest.js</span>
+                                <span class="tech-badge">Vue.js</span>
+                                <span class="tech-badge">MySQL</span>
+                            </div>
+                            <p>실시간 이상 감지 및 로그 모니터링 시스템 구축으로 시스템 안정성 확보</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TechPLEX -->
+                <div class="card exp-item reveal" style="margin-top: 2rem;">
+                    <div class="exp-header">
+                        <h3 class="company">테크플렉스 (TechPLEX)</h3>
+                        <span class="duration">2018.10 - 2022.07</span>
+                    </div>
+                    <span class="role">SW 개발 (임베디드 & 서버)</span>
+                    <div class="projects">
+                        <div class="project">
+                            <h4>IoT Device Control Server (LWM2M)</h4>
+                            <div class="tech-stack">
+                                <span class="tech-badge">Node.js</span>
+                                <span class="tech-badge">MongoDB</span>
+                                <span class="tech-badge">MQTT</span>
+                                <span class="tech-badge">AWS</span>
+                                <span class="tech-badge">Docker</span>
+                            </div>
+                            <p>대규모 IoT 디바이스 관제 서버 개발 및 AWS Docker 환경 배포</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2 class="section-title">Skills & Tech Stack</h2>
+            <div class="skill-grid">
+                <div class="skill-tag reveal">Node.js</div>
+                <div class="skill-tag reveal">Nest.js</div>
+                <div class="skill-tag reveal">Express</div>
+                <div class="skill-tag reveal">MongoDB</div>
+                <div class="skill-tag reveal">MySQL</div>
+                <div class="skill-tag reveal">Redis</div>
+                <div class="skill-tag reveal">AWS</div>
+                <div class="skill-tag reveal">Azure</div>
+                <div class="skill-tag reveal">Docker</div>
+                <div class="skill-tag reveal">JavaScript</div>
+                <div class="skill-tag reveal">TypeScript</div>
+                <div class="skill-tag reveal">Python</div>
+            </div>
+        </section>
+    </main>
+
+    <footer
+        style="padding: 4rem 10%; border-top: 1px solid var(--glass-border); text-align: center; color: var(--text-muted);">
+        <p>&copy; 2026 Kim Eojin. Built with Passion.</p>
+        <div style="margin-top: 1rem; display: flex; justify-content: center; gap: 2rem;">
+            <a href="https://github.com/KimEJ"
+                style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+                <i data-lucide="github"></i> GitHub
+            </a>
+            <a href="mailto:kimuj5090@gmail.com"
+                style="color: inherit; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+                <i data-lucide="mail"></i> Email
+            </a>
+        </div>
+    </footer>
+
+    <script>
+        lucide.createIcons();
+
+        // Simple reveal on scroll
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('fade-in-up');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+    </script>
+</body>
+
+</html>
